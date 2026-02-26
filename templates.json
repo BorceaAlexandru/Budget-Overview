@@ -1,0 +1,55 @@
+[
+  {
+    "nume": "Chirie",
+    "categorie": "Locuinta",
+    "suma": 365,
+    "zi": 1,
+    "descriere": "Plata regie camin",
+    "activ": true
+  },
+
+  {
+    "nume": "Spotify",
+    "categorie": "Subscriptie",
+    "suma": 14,
+    "zi": 9,
+    "descriere": "Subcriptie muzica",
+    "activ": true
+  },
+
+  {
+    "nume": "ChatGPT",
+    "categorie": "Subscriptie",
+    "suma": 60,
+    "zi": 4,
+    "descriere": "Subscriptie AI",
+    "activ": true
+  },
+
+  {
+    "nume": "Sala - 18GYM",
+    "categorie": "Subscriptie",
+    "suma": 180,
+    "zi": 7,
+    "descriere": "Subscriptie Sala Fitness",
+    "activ": true
+  },
+
+  {
+    "nume": "Abonament STB",
+    "categorie": "Transport Public",
+    "suma": 80,
+    "zi": 1,
+    "descriere": "Abonament Transport Public - Autobuz",
+    "activ": true
+  },
+
+  {
+    "nume": "Abonament Metrorex",
+    "categorie": "Transport Public",
+    "suma": 10,
+    "zi": 1,
+    "descriere": "Abonament Transport Public - Metrou",
+    "activ": true
+  }
+]
