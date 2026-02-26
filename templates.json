@@ -37,7 +37,7 @@
 
   {
     "nume": "Abonament STB",
-    "categorie": "Transport Public",
+    "categorie": "Subscriptie",
     "suma": 80,
     "zi": 1,
     "descriere": "Abonament Transport Public - Autobuz",
@@ -46,7 +46,7 @@
 
   {
     "nume": "Abonament Metrorex",
-    "categorie": "Transport Public",
+    "categorie": "Subscriptie",
     "suma": 10,
     "zi": 1,
     "descriere": "Abonament Transport Public - Metrou",
